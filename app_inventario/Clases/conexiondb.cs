@@ -31,7 +31,7 @@ namespace app_inventario.Clases
             try
             {
                 return conexionbd;
-
+                //mamadas para ver si acutaliza
 
             }
             catch (MySqlException e)
