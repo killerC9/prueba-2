@@ -1,0 +1,6 @@
+ABrir terminal
+
+git add .
+git commit -m "tecto de actiulizacion"
+
+git push origin master
