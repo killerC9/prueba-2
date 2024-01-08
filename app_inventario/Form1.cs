@@ -31,7 +31,7 @@ namespace app_inventario
             MySqlCommand comando = new MySqlCommand();
             comando.Connection = conexionbd;
 
-            comando.CommandText = ("Select * from forros;");
+            comando.CommandText = ("Select * from compras_precio INNER JOIN valor_venta ON valor_venta.id_venta = compras_precio.id_compras_precio;");
 
             MySqlDataAdapter adapter = new MySqlDataAdapter(comando);
             DataTable tabla = new DataTable();
