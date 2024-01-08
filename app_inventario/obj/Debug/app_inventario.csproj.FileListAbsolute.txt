@@ -1,5 +1,4 @@
 C:\Users\JULIAN-PC\source\repos\inventario\app_inventario\obj\Debug\app_inventario.csproj.AssemblyReference.cache
-C:\Users\JULIAN-PC\source\repos\inventario\app_inventario\obj\Debug\app_inventario.csproj.SuggestedBindingRedirects.cache
 C:\Users\JULIAN-PC\source\repos\inventario\app_inventario\obj\Debug\app_inventario.Form1.resources
 C:\Users\JULIAN-PC\source\repos\inventario\app_inventario\obj\Debug\app_inventario.Properties.Resources.resources
 C:\Users\JULIAN-PC\source\repos\inventario\app_inventario\obj\Debug\app_inventario.csproj.GenerateResource.cache
