@@ -41,10 +41,23 @@ namespace app_inventario
 
         }
 
-        private void button1_Click(object sender, EventArgs e)
+        private void textBox1_TextChanged(object sender, EventArgs e)
         {
-         
-           
+            string textoBusqueda = textBox1.Text.Trim();
+
+            using (MySqlConnection conexionbd = Clases.conexion.establecerConexion())
+            {
+                conexionbd.Open();
+                string consulta = "SELECT * FROM compras_precio WHERE nom_compra LIKE @busqueda";
+                using (MySqlCommand comando = new MySqlCommand(consulta, conexionbd))
+                {
+                    comando.Parameters.AddWithValue("@busqueda", "%" + textoBusqueda + "%");
+                    MySqlDataAdapter adapter = new MySqlDataAdapter(comando);
+                    DataTable tabla = new DataTable();
+                    adapter.Fill(tabla);
+                    dataGridView1.DataSource = tabla;
+                }
+            }
         }
     }
 }

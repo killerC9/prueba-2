@@ -1,0 +1,140 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|solutionrelative:app_inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|c:\\users\\julian\\source\\repos\\killerc9\\prueba-2\\app_inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|solutionrelative:app_inventario\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\f_log.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|solutionrelative:app_inventario\\f_log.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|c:\\users\\julian\\source\\repos\\killerc9\\prueba-2\\app_inventario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|solutionrelative:app_inventario\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\f_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|solutionrelative:app_inventario\\f_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\clases\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|solutionrelative:app_inventario\\clases\\conexiondb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\f_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CD7F846-BB60-4A21-9ABF-BE03CD0A0BA6}|app_inventario\\app_inventario.csproj|solutionrelative:app_inventario\\f_log.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "app_inventario\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Form1.Designer.cs",
+              "RelativeToolTip": "app_inventario\\Form1.Designer.cs",
+              "ViewState": "AgIAAHcAAAAAAAAAAAAiwJ8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T20:19:07.182Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "conexiondb.cs",
+              "DocumentMoniker": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Clases\\conexiondb.cs",
+              "RelativeDocumentMoniker": "app_inventario\\Clases\\conexiondb.cs",
+              "ToolTip": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Clases\\conexiondb.cs",
+              "RelativeToolTip": "app_inventario\\Clases\\conexiondb.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:26:58.23Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "F_Log.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\F_Log.Designer.cs",
+              "RelativeDocumentMoniker": "app_inventario\\F_Log.Designer.cs",
+              "ToolTip": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\F_Log.Designer.cs",
+              "RelativeToolTip": "app_inventario\\F_Log.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:26:58.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "F_Log.cs",
+              "DocumentMoniker": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\F_Log.cs",
+              "RelativeDocumentMoniker": "app_inventario\\F_Log.cs",
+              "ToolTip": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\F_Log.cs",
+              "RelativeToolTip": "app_inventario\\F_Log.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:26:58.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "F_Log.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\F_Log.cs",
+              "RelativeDocumentMoniker": "app_inventario\\F_Log.cs",
+              "ToolTip": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\F_Log.cs [Dise\u00F1o]",
+              "RelativeToolTip": "app_inventario\\F_Log.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:26:58.397Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Form1.cs",
+              "RelativeDocumentMoniker": "app_inventario\\Form1.cs",
+              "ToolTip": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Form1.cs",
+              "RelativeToolTip": "app_inventario\\Form1.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAADwvzMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:26:58.539Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Form1.cs",
+              "RelativeDocumentMoniker": "app_inventario\\Form1.cs",
+              "ToolTip": "C:\\Users\\julian\\source\\repos\\killerC9\\prueba-2\\app_inventario\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "app_inventario\\Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-05T16:26:58.966Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
